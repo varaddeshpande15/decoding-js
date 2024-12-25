@@ -12,7 +12,7 @@
 
 ## 🌐 Live Website
 
-Check out the live website: [Decoding JS](https://your-username.github.io/decoding-js/)
+Check out the live website: [Decoding JS](https://varaddeshpande15.github.io/decoding-js/)
 
 ## 🛠️ Installation and Setup
 
