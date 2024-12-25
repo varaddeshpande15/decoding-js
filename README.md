@@ -2,7 +2,7 @@
 
 **Decoding JS** is a comprehensive website designed to help developers and learners understand core JavaScript concepts. It covers essential topics like hoisting, execution contexts, scope chains, and more, using detailed explanations, flowcharts, and examples. The site is perfect for anyone preparing for JavaScript interviews or looking to strengthen their foundational knowledge.
 
-## 🚀 Features
+## 🚀 Features (under development)
 
 - **Detailed Explanations**: Core JavaScript concepts are broken down into simple, easy-to-understand sections.
 - **Interactive Flowcharts**: Visual representations of complex topics using Mermaid.js.
